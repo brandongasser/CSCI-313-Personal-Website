@@ -27,3 +27,17 @@ p, .preferences-list li {
     font-family: cursive;
     font-size: 25px;
 }
+
+table {
+    font-family: cursive;
+    text-align: center;
+}
+
+th {
+    font-size: 25px;
+    font-style: bold;
+}
+
+td {
+    font-size: 20px;
+}
